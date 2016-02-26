@@ -7,6 +7,6 @@ Windows
 # 注意事项
 * 1 注意修改tomcatPath.properties文件中的路径
 * 2 注意修改tomcat/bin/catalina.bat 中参数
-例如：
-    set JAVA_HOME=C:/Users/Administrator/Desktop/tomcat_6.0.18/jdk_1.6.0_37/
-    set CATALINA_HOME=C:/Users/Administrator/Desktop/tomcat_6.0.18
+  例如：
+  set JAVA_HOME=C:/Users/Administrator/Desktop/tomcat_6.0.18/jdk_1.6.0_37/
+  set CATALINA_HOME=C:/Users/Administrator/Desktop/tomcat_6.0.18
